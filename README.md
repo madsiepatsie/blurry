@@ -1,1 +1,1 @@
-# Blurry
+An attempt at making a robust and reliable blurring program that doesn't just stop blurring and doesn't fully rely on hand tracking a subject, meant to blur addresses, faces, licence plates, etc exports mp4
