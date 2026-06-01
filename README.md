@@ -1,1 +1,1 @@
-An attempt at making a robust and reliable blurring program that doesn't just stop blurring and doesn't fully rely on hand tracking a subject, meant to blur addresses, faces, licence plates, etc exports mp4
+An attempt at making a robust and reliable blurring program that doesn't just stop blurring and doesn't fully rely on hand tracking a subject, but instead makes use of prompt-based tracking. Use cases are, for example: addresses, faces, licence plates, and exports in MP4
